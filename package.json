@@ -1,0 +1,22 @@
+{
+  "name": "stablecoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurmanto/Stablecoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurmanto/Stablecoin/issues"
+  },
+  "homepage": "https://github.com/kurmanto/Stablecoin#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
